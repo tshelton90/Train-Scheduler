@@ -1,0 +1,10 @@
+body {
+    background-image: url("../images/sos.png");
+};
+
+.panel-heading {
+    color: #ffffff;
+    background-color: grey;
+    font-size: 300px;
+};
+
